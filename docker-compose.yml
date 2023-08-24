@@ -9,4 +9,4 @@ services:
     environment:
       - POSTGRES_DB=db
       - POSTGRES_USER=app
-      - POSTGRES_PASSWORD=9mREsvXDs9Gk89E
+      - POSTGRES_PASSWORD=9mREsvXDs9Gk89Ef
